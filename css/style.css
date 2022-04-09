@@ -569,3 +569,15 @@ img {
     justify-content: space-between;
     list-style: none;
   }
+  .header-logo {
+    font-size: 5px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-right: 10px;
+    letter-spacing: .05em;
+  }
+
+  .header-logo a {
+    color: #333;
+  }
+}
